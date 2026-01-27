@@ -1,56 +1,106 @@
-# DSA Projects
+# DSA PROJECTS (DATA STRUCTURE FOCUSED)
 
-This document lists all the Data Structures and Algorithms projects to build your problem-solving skills and system design understanding.
+All projects here are **data-structure intensive** and pattern-driven.
 
-## List of DSA Projects
+---
 
-- **Project 5: To-Do List Application**
-  - Use vectors and maps to manage tasks
-  - Features: add, delete, update, prioritize, filter
-  - Storage: file persistence
+## 🔢 ARRAYS
 
-- **Project 6: Array Visualizer**
-  - Visualize sorting algorithms step-by-step
-  - Implement bubble sort, merge sort, quicksort
-  - Show two-pointer and sliding window operations
+### Project 6: Array Visualizer
+- Visualize array operations (CLI)
+- Sorting animations (bubble, merge, quick)
+- Two-pointer visualization
+- Sliding window visualization
+- Performance comparison
 
-- **Project 7: Browser History Manager**
-  - Implement using doubly linked list
-  - Navigate back and forward
-  - Save/load history from file
+---
 
-- **Project 8: Expression Evaluator**
-  - Convert infix to postfix
-  - Evaluate postfix expressions
-  - Support operators and parentheses
+## 🔗 LINKED LISTS
 
-- **Project 9: File System Navigator**
-  - Tree structure for directories/files
-  - Commands: mkdir, touch, ls, cd, rm
-  - Visualize directory tree
-  - Save/load structure
+### Project 7: Browser History Manager
+- Doubly linked list navigation
+- Visit URLs
+- Back / forward navigation
+- Clear history
+- Bookmarks (separate list)
+- Most visited pages
 
-- **Project 10: Social Network Analyzer**
-  - Model users and friendships as a graph
-  - Find mutual friends, shortest path
-  - Detect communities
+---
 
-- **Project 11: Puzzle Solver**
-  - Sudoku solver with backtracking
-  - N-Queens problem
-  - Maze generator/solver
+## 📦 STACKS & QUEUES
 
-- **Project 12: Text Justification Engine**
-  - Word wrap with DP
-  - Optimize line breaks
-  - Support different alignments
+### Project 8: Expression Evaluator
+- Infix → postfix conversion
+- Postfix evaluation
+- Support + - * / ^ ()
+- Handle multi-digit numbers
+- Step-by-step evaluation
+- Error handling
+- Expression history
 
-- **Project 13: Autocomplete System**
-  - Implement Trie
-  - Insert, delete, search words
-  - Top suggestions by prefix
+---
 
-- **Project 14: File Compression Tool**
-  - Implement Huffman coding
-  - Compress and decompress files
-  - Show compression ratios
+## 🌳 TREES
+
+### Project 9: File System Navigator
+- Tree-based directory structure
+- Commands: mkdir, touch, cd, ls, pwd, rm
+- Directory size calculation
+- Search files
+- ASCII tree visualization
+- Save/load state
+
+---
+
+## 🕸️ GRAPHS
+
+### Project 10: Social Network Analyzer
+- Graph of users and friendships
+- Mutual friends
+- Shortest path (degrees of separation)
+- Friend suggestions
+- Influencer detection
+- Community detection
+- Graph visualization
+
+---
+
+## 🔁 RECURSION & BACKTRACKING
+
+### Project 11: Puzzle Solver
+- Sudoku solver
+- N-Queens solver
+- Maze solver
+- Crossword solver
+- Backtracking step visualization
+- Performance metrics
+
+---
+
+## 🧠 DYNAMIC PROGRAMMING
+
+### Project 12: Text Justification Engine
+- Word wrapping
+- Knapsack-based line breaking
+- Alignment modes
+- DP table visualization
+- Compare greedy vs DP
+
+---
+
+## 🚀 ADVANCED DS
+
+### Project 13: Autocomplete System
+- Trie implementation
+- Prefix search
+- Top-K suggestions
+- Dynamic updates
+- Persistence
+
+---
+
+### Project 14: File Compression Tool
+- Huffman encoding
+- Compress and decompress files
+- Compression ratio
+- Binary file handling
