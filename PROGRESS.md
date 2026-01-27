@@ -1,9 +1,62 @@
-## Progress Tracking
+# 📈 DAILY PROGRESS TRACKER
 
-- **Week 1-2:** C++ Fundamentals (variables, functions, arrays)
-- **Week 3-4:** Pointers, OOP basics
-- **Week 5:** STL mastery (vector, map, set)
-- **Week 6-7:** Data structures (linked list, stack, queue)
-- **Week 8:** Trees and graphs
-- **Week 9:** Recursion & backtracking
-- **Week 10:** Dynamic programming
+Consistency > Intensity
+
+---
+
+## WEEK 1
+
+### Day 1
+- Topics Studied:
+  - 
+- Practice Problems:
+  - 
+- Notes:
+  - 
+- Time Spent:
+  - 
+
+### Day 2
+- Topics Studied:
+- Practice Problems:
+- Notes:
+- Time Spent:
+
+---
+
+## PROJECT TRACKER
+
+### C++ Projects
+- [ ] Student Grade Calculator
+- [ ] Simple Banking System
+- [ ] Library Management System
+- [ ] Contact Management System
+- [ ] To-Do List Application
+
+### DSA Projects
+- [ ] Array Visualizer
+- [ ] Browser History Manager
+- [ ] Expression Evaluator
+- [ ] File System Navigator
+- [ ] Social Network Analyzer
+- [ ] Puzzle Solver
+- [ ] Text Justification Engine
+- [ ] Autocomplete System
+- [ ] File Compression Tool
+
+---
+
+## PROBLEM COUNT
+- Arrays:
+- Linked Lists:
+- Stacks:
+- Queues:
+- Trees:
+- Graphs:
+- DP:
+
+---
+
+## STREAK
+🔥 Current Streak:
+🏆 Longest Streak:
