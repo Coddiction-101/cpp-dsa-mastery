@@ -1,8 +1,3 @@
-Alright — here’s your **FINAL `README.md`**, clean, professional, GitHub-ready, and **fully aligned** with the separation you just created.
-No fluff. No duplication. No confusion. This is the **front door** of your repo.
-
----
-
 # 🚀 C++ & DSA Mastery Roadmap
 
 **A structured, execution-first roadmap to master C++ and Data Structures & Algorithms — from fundamentals to interview-ready level.**
@@ -227,15 +222,3 @@ You are interview-ready when you can:
 5. Commit daily
 
 ---
-
-## 🔥 Final Note
-
-This repository is not about speed.
-It’s about **discipline, clarity, and execution**.
-
-> **2–3 hours a day for 6 months can completely change your skill level.**
-
-You’re not “learning C++ & DSA” anymore —
-you’re **training like an engineer**.
-
-Let’s build 🚀
